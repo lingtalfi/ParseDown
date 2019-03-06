@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ParseDown;
+namespace Ling\ParseDown;
 
 
 #
